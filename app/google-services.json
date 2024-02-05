@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344990288388",
+    "project_id": "stylestreet-9083e",
+    "storage_bucket": "stylestreet-9083e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344990288388:android:8f4617f887e1fef33f0351",
+        "android_client_info": {
+          "package_name": "com.example.stylestreet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXsqelbdLrrMLNNoGxw5725UObiCSeprs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
